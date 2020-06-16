@@ -6,4 +6,6 @@
 
 ![](plaatje3.png)
 
-➙ [Mijn project bekijken](https://boring-mccarthy-343e86.netlify.app)
+➙ [Mijn project bekijken](https://goofy-poitras-62fefe.netlify.app)
+
+
