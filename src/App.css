@@ -1,0 +1,91 @@
+body {
+	background-color: gray;
+}
+.tableview {
+	background-color: gray;
+	height: 100px;
+	padding-top: 10px;
+	height: 40%;
+}
+.App {
+	background-color: #ecba1d;
+	height: 100px;
+	padding-top: 10px;
+	height: 40%;
+}
+.LeerlingenChart{
+	background-color: #2cac36;
+	height: 100px;
+	padding-top: 10px;
+	height: 40%;
+
+}
+.Tableview {
+	background-color: #ecba1d;
+}
+
+.Router-Header {
+	background-color: blue;
+	height: 200px;
+}
+.Router-Nav {
+	background-color: grey;
+	padding: 20px;
+}
+.Router-Nav a {
+	color: white;
+	font-size: larger;
+	text-transform: uppercase;
+}
+.Student-Page {
+	background-color: grey;
+	padding: 20px;
+	justify-items: center;
+	text-align: center;
+}
+.VictoryContainer {
+	background-color: grey;
+	height: 200px;
+	
+}
+.Form-Div {
+	background-color: gray;
+	padding: 20px;
+	justify-items: center;
+	text-align: center;
+}
+.tableview {
+	padding: 30px;
+  }
+  
+  .tableview-content {
+	background-color: grey;
+	padding: 30px;
+  }
+  
+  .tableview-content .table {
+	width: 70%;
+	margin: auto;
+  }
+  
+  .tableview-content .table .thead {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	font-size: 17px;
+	font-weight: bold;
+	cursor: pointer;
+	border-bottom: 2px solid #5a6b7f;
+  }
+  
+  .tableview-content .table .table-row {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+  }
+  
+  .tableview-content .table .table-row div, .tableview-content .table .thead div {
+	padding: 5px;
+  }
+  
+  .tableview-content .table .table-row:nth-child(even){
+	background-color: #bec1c8;
+  }
